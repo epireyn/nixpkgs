@@ -14512,6 +14512,8 @@ self: super: with self; {
 
   roma = callPackage ../development/python-modules/roma { };
 
+  roman-numerals-py = callPackage ../development/python-modules/roman-numerals-py { };
+
   roman = callPackage ../development/python-modules/roman { };
 
   romy = callPackage ../development/python-modules/romy { };
