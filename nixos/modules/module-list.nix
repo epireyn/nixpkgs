@@ -1624,6 +1624,7 @@
   ./services/web-apps/pingvin-share.nix
   ./services/web-apps/pixelfed.nix
   ./services/web-apps/plantuml-server.nix
+  ./services/web-apps/plant-it.nix
   ./services/web-apps/plausible.nix
   ./services/web-apps/porn-vault/default.nix
   ./services/web-apps/powerdns-admin.nix
