@@ -122,6 +122,7 @@ buildNpmPackage (finalAttrs: {
   '';
 
   passthru = {
+    tests = { inherit (nixosTests) aurral; };
     updateScript = nix-update-script { };
   };
 
